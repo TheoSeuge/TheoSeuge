@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Vue, TypeScript**
 
-- 📫 How to reach me **theo.seuge@gmail.com**
+- 📫 How to reach me -> **theo.seuge@gmail.com**
 
 - 📄 One at year **Epitech** and currently **Ada Tech School**
 
