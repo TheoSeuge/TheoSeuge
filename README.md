@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **theo.seuge@gmail.com**
 
-- 📄 1 year **Epitech** and currently **Ada Tech School**
+- 📄 One at year **Epitech** and currently **Ada Tech School**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
