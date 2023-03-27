@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **theo.seuge@gmail.com**
 
-- 📄 Know about my experiences [Epitech, Ada Tech School](Epitech, Ada Tech School)
+- 📄 Know about my experiences Epitech, Ada Tech School
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
