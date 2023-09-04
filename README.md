@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
 <h3 align="center">A passionate student developer from France</h3>
 
-- 🌱 I’m currently learning **Tailwind, Vue, TypeScript**
+- 🌱 I’m currently learning **Symfony**
 
 - 📫 How to reach me **theo.seuge@gmail.com**
 
