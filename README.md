@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">A passionate student developer from France</h3>
-
-- 🌱 I’m currently learning **Symfony**
-
-- 📫 How to reach me **theo.seuge@gmail.com**
-
-- 📄 Know about my experiences, Epitech, Ada Tech School
+<h3 align="center">Passionate student developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
